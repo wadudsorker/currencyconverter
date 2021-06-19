@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.congtainer{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+ul,
+ol{
+    list-style: none;
+}
+
+a,
+a:hover{
+    text-decoration: none;
+}
+
+.clr{
+    clear: both;
+}
+/*==============================*/
+
+.currency{
+    width: 600px;
+    height: 500px;
+    background: skyblue;
+    margin-left: 350px;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+
+.currency h2{
+    font:25px;
+    color: brown;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+.currency .ttt{
+    font: 16px;
+    padding-bottom:20px ;
+    
+
+}
+
+.form-group mx-sm-3 mb-2{
+    display: inline-block;
+  
+}
+
+#currency-1{
+    display: inline-block;
+    padding: 10px 25px;
+    margin-top: 40px;
+    margin-left: -200px;
+    
+}
+
+.text{
+    
+    margin-top: -33px;
+   
+}
+
+#currency-2{
+    display: inline-block;
+    padding: 10px 25px;
+    margin-top: -38px;
+    margin-left: 230px;
+    
+
+}
+
+#currency-3{
+    margin-top: 35px;
+    padding: 10px 25px;
+    margin-left: 105px;
+   
+}
+
+
+.result{
+    margin-top: 25px;
+}
+
+
